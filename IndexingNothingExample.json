@@ -1,0 +1,13 @@
+{
+    "indexingMode": "consistent",
+    "automatic": true,
+    "includedPaths": [
+       
+    ],
+    "excludedPaths": [
+        {
+            "path": "/\"_etag\"/?"
+        }
+    ],
+    "fullTextIndexes": []
+}
